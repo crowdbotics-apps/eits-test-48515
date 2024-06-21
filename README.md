@@ -75,6 +75,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [faq]()
 - [subscription]()
 - [django-core](backend/modules)
+- [django-push-notifications](backend/modules)
 
 # Getting started: Frontend
 
