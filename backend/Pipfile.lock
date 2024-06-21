@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "f2e9a56ba7cc394cf6447ca2d9d4c65957dfa413a8f1ef688ce6fba53d436b9a"
+            "sha256": "46173558b8bdbeb3e6e1d9a93d7fb261b6c95c7430b0035320637dc159eab4d4"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -95,6 +95,10 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==5.3.3"
+        },
+        "cb-django-core": {
+            "editable": true,
+            "path": "./modules/django_core"
         },
         "cb-privacy-policy": {
             "editable": true,

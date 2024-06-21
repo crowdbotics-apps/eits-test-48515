@@ -74,6 +74,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [terms-and-conditions]()
 - [faq]()
 - [subscription]()
+- [django-core](backend/modules)
 
 # Getting started: Frontend
 
