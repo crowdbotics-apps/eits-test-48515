@@ -73,6 +73,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [privacy-policy]()
 - [terms-and-conditions]()
 - [faq]()
+- [subscription]()
 
 # Getting started: Frontend
 
