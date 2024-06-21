@@ -1487,6 +1487,9 @@
     prop-types "^15.8.1"
     react-native-app-intro-slider "^4.0.4"
 
+"@modules/privacy-policy-webview@file:./modules/privacy-policy-webview/":
+  version "1.0.0"
+
 "@modules/push-notifications@file:./modules/push-notifications":
   version "1.0.0"
 
@@ -1508,7 +1511,7 @@
 "@modules/terms-and-conditions-webview@file:./modules/terms-and-conditions-webview":
   version "1.0.0"
 
-"@modules/user-profile@file:./modules/user-profile/":
+"@modules/user-profile@file:./modules/user-profile":
   version "1.0.0"
   dependencies:
     "@react-navigation/native" "^5.9.2"
